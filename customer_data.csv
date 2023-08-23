@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone_number,city,state,zip_code
+1,John,Doe,johndoe@example.com,555-123-4567,New York,NY,10001
+2,Jane,Smith,janesmith@example.com,555-987-6543,Los Angeles,CA,90001
+3,Michael,Johnson,michaeljohnson@example.com,555-555-5555,Chicago,IL,60601
+4,Sarah,Williams,sarahwilliams@example.com,555-111-2222,Houston,TX,77001
+5,David,Brown,davidbrown@example.com,555-444-3333,Miami,FL,33101
